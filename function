@@ -1,0 +1,4 @@
+def enter_your_fullName(FirstName ,  LastName):
+    print("Your Name is " + FirstName + " " +  LastName )
+
+enter_your_fullName("Sunny" ,"Kumar")
